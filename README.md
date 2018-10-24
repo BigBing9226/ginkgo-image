@@ -4,3 +4,7 @@
 ```
 make build
 ```
+## test
+```shell
+go build
+```
